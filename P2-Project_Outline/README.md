@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+General Overview:
+The group will develop an online music forum app for users to share and discuss music that they enjoy.
+Users will be able to sign up for an account, then login with a username and make posts or reply to other posts in the forum.
+Users will be able to search the posts in the forum and find new music they might enjoy.
 ### Features
-Include Features here
+The app will have a search feature to search for threads about bands or musicians they enjoy.
+The app will have a ratings systems for users to provide feedback on eachothers posts.
+The app will have an FAQ page explaining features of the app.
 ### Technologies
-Include Technologies here
+The team will implement SpringBoot to build the app. We will use MySQL, Hibernate, Thymeleaf Templates and potentially the Spotify API
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll have to learn how to manage time better, communicate with a team, and refresh my knowledge of git commands especially regarding merges.
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/PWBCFuf8/music-forum
