@@ -10,11 +10,11 @@ For this assignment, you'll create some initial plans for your project.
 
 Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
-- [Home Page Wireframe](https://github.com/shamus6025/liftoff-assignments/tree/master/P3-Project_Planning/homepageWF.png)
+- [Home Page Wireframe](homepageWF.png)
 
-- [User Profile Wireframe](https://github.com/shamus6025/liftoff-assignments/tree/master/P3-Project_Planning/profileWF.png)
+- [User Profile Wireframe](profileWF.png)
 
-- [New Post Wireframe](https://github.com/shamus6025/liftoff-assignments/tree/master/P3-Project_Planning/NewPostWF.png)
+- [New Post Wireframe](NewPostWF.png)
 
 ### Project Tracker
 
